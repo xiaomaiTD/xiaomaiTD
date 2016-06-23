@@ -257,6 +257,8 @@
     
     //保存数据
     _changeStr = dateStr;
+    
+    NSLog(@"ahahh");
 }
 
 #pragma mark - UITextFieldDelegate
